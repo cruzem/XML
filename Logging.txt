@@ -1,0 +1,20 @@
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+SEVERE: Severe Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+SEVERE: Severe Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+WARNING: Warning Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+INFO: Info Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+SEVERE: Severe Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+WARNING: Warning Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+INFO: Info Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+SEVERE: Severe Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+WARNING: Warning Log
+Sep 30, 2018 12:09:23 PM week05.TestLogging testLogger
+INFO: Info Log
